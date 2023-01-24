@@ -6,7 +6,7 @@ Easily interchangeable with any other text.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/ericksonl/BeeMovieScriptSpammer/blob/main/assets/ReadMe.png">
+  <img src="https://github.com/ericksonl/TextSpammer/blob/main/assets/ReadMe.png">
 </p>
 
 
@@ -19,8 +19,8 @@ Before running this on your local machine, you will need to do the following:
 After you have the necessary requirements, run the following commands:
 
 ```sh
-git clone https://github.com/ericksonl/BeeMovieScriptSpammer.git
-cd BeeMovieScriptSpammer
+git clone https://github.com/ericksonl/TextSpammer.git
+cd TextSpammer
 pip install pyautogui
 ```
 
