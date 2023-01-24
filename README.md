@@ -1,4 +1,4 @@
-# Bee Movie Script Spammer
+# Text Spammer
 
 A simple Python script to spam someone with every line from a text file. 
 Easily interchangeable with any other text.
