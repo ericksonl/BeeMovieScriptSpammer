@@ -6,7 +6,7 @@ Easily interchangeable with any other text.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/ericksonl/BirdWatcher/blob/main/assets/ReadMe.png">
+  <img src="https://github.com/ericksonl/BeeMovieScriptSpammer/blob/main/assets/ReadMe.png">
 </p>
 
 
