@@ -1,11 +1,11 @@
 import pyautogui
 import time
 
-file1 = open("MovieScript.txt")
+file1 = open("Script.txt")
 
 time.sleep(5)
 
-with open("MovieScript.txt", "r") as a_file:
+with open("Script.txt", "r") as a_file:
   for line in a_file:
     stripped_line = line.strip()
     pyautogui.write(stripped_line)
